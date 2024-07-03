@@ -1,0 +1,166 @@
+{
+    "main": {
+      "name": "Muhamad Sahid",
+      "occupation": " Full Stack Software Developer",
+      "description": " currently freelancing",
+      "employer": " ",
+      "jobDescription": "Brainstorm Ideas, Design Protoype, & Slap My Keyboard Until Everything Works",
+      "image": "profile_pic.jpg",
+      "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for the logic and sciense, curious to learn how everything works, a passion for coding. Born in a south west sydeny, alongside my many ongoing projects. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid thrill seeker, hiking and seeking new goals to accomplish. I love to travel and lead a fairly spontaneous lifestyle. As show are some client work i've done in my early stages as a programmer.",
+      "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+      "email": "mas152q@gmail.com",
+      "address": {
+        "city": "Sydney",
+        "state": "New South Wales",
+        "postCode": "2170"
+      },
+      "website": "",
+      "resumedownload": "https://drive.google.com/file/d/1mXFTavQ2uCmHOgocEYzeP_0sSNO32kZf/view?usp=sharing",
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/muhamad-sahid-791981113/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "stack-overflow",
+          "url": "https://stackoverflow.com/",
+          "className": "fa fa-stack-overflow"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/s3793758",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+      "education": [
+        {
+          "school": "University of Wollongong",
+          "degree": "Bachelors in Infromation Technology",
+          "graduated": "July 2022",
+          "description": "Here I took my Bachelors degree achieved a much more thorough education. It was here that I discovered my passion for scalable application programming (web and mobile). I was given the opportunity:  <ul><li>UOW ambassador</li> <li>President & Founder of 3 Society</li> <li>Student Succes Mentor</li> <li>In2Uni Mentor</li> <li>Advisor UniLife - Supporting Engagment in campus</li></ul>'"
+        },
+        {
+          "school": "University of Sydney",
+          "degree": "Full Stack Developer",
+          "graduated": "August 2022",
+          "description": "I took place in a remote learning to become a full stack developer through javascript frame works every week would be demonstrate a project on concept we leared, As showcased on my github and on this portfolio of real client work."
+        },
+        {
+          "school": "University of jiao tong (china)",
+          "degree": "Full Stack Developer",
+          "graduated": "2018",
+          "description": "I took place in a global summer school internship among 13 countries, being nomintated team leader in a mix team of non-english speakers building an application using BootStrap, CSS, Javascript, MYSQL. Placing 3rd place out of 12 teams."
+        }
+      ],
+      "work": [
+        {
+          "company": "Ohana Dev",
+          "title": "Full Stack Developer",
+          "years": "October 2021 - Present",
+          "description": "Mulitiple clients, in the humaintarian aid sector. Using bootstrap, css, javascript ."
+        },
+        {
+          "company": "Ohana Dev",
+          "title": "Full Stack Developer - contractor",
+          "years": "August - October ",
+          "description": "Building an audit application for a Non-For-Profit Organisation in ensure maximum productivity in all aspect of the organsation to ensure right resoruces are allocated correctly. Features are such to ensuring correct auditing and record keeping is efficent. \n\n I was given the opportunity to build the whole application, in conducting everything i learned from both degress, insuring stakeholders wireframe designs and working prototype using figma."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Git",
+          "description": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. I use Git for all my projects so far",
+          "image": "git.jpg"
+        },
+        {
+          "name": "Javascript",
+          "description": "Javascript is my first programming language that I started using in university. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+          "image": "js.png"
+        },
+        {
+          "name": "React Js",
+          "description": "I am fairly new to React and felt really overwhelmed at first. It has grown on me though and I will continue to use it going forward.",
+          "image": "react.jpg"
+        },
+        {
+          "name": "Handlebar JS",
+          "description": "I learned Handlebars before i got into react. Handlebars. js is a Javascript library used to create reusable webpage templates, As demonstrated on a project called bookness. ",
+          "image": "hsjs.jpg"
+        },
+  
+        {
+          "name": "Node JS and Express JS",
+          "description": "Node JS is my server-side scripting language of choice.",
+          "image": "noteexpress.png"
+        },
+        {
+          "name": "Bootstrap 5",
+          "description": "Bootstrap has been my default layout style for website. But learning Sematic UI React to keep up with competition",
+          "image": "bootstrap.jpg"
+        },
+        {
+          "name": "MongoDB",
+          "description": "I have used many different database systems and am better educated and experienced. However, i enjoyable working with MongoDB",
+          "image": "mongo.jpg"
+        },
+        {
+          "name": "Heroku",
+          "description": "Is one of many free platforms i use to host websites.",
+          "image": "heroku.jpg"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Voice Of The Ummah",
+          "category": "Non-For-Profit Organisation in Africa",
+          "image": "voiceofummah.png",
+          "url": "https://github.com/BrxwnSugxr/"
+        },
+        {
+          "title": "Care Out Of Reach",
+          "category": "Charity organsiation in uganda ",
+          "image": "careoutreach.png",
+          "url": "https://github.com/BrxwnSugxr/"
+        },
+        {
+          "title": "Observent",
+          "category": "Auditing Application ensure, incoming, out coming expensive and tracking manpower printing reports",
+          "image": "comming-soon.png",
+          "url": "https://github.com/BrxwnSugxr/"
+        },
+        {
+          "title": "prism-breaker ",
+          "category": "A social media blog for people with like mind who enjoy playing Dungeon and Dragons, can network, and find people to organise events.",
+          "image": "prisim.jpg",
+          "url": "https://github.com/BrxwnSugxr/"
+        },
+        {
+          "title": "FairDinking messager",
+          "category": "Messanger application.",
+          "image": "fairdink.jpg",
+          "url": "https://github.com/BrxwnSugxr/"
+        },
+        {
+          "title": "MarvelTube",
+          "category": "Virtual group project Using Marvel API connecting it keysearch word to Youtube API search.",
+          "image": "marvelapi.png",
+          "url": "https://github.com/BrxwnSugxr/"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Muhamad was the right fit to enhance the next step of my organisation. Due to the large following in 4 different countries, having our own website, we're able to ensure we can seperate our social media present but have the website as a step of professionalism. Muhamad has taken me through every step of the way. Thank you Muhamad for your effort knowledge and ensuring we get the best layout.",
+          "user": "Mudah  - CEO Voice Of The Ummah"
+        }
+      ]
+    }
+  }
+  
